@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApp", "MathApp\MathApp.csproj", "{5205DCC9-236C-41F2-AAB2-4A1A2980FFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5205DCC9-236C-41F2-AAB2-4A1A2980FFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5205DCC9-236C-41F2-AAB2-4A1A2980FFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5205DCC9-236C-41F2-AAB2-4A1A2980FFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5205DCC9-236C-41F2-AAB2-4A1A2980FFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A5A7EB-6C10-42BE-9D74-52A5C1D0A118}
+	EndGlobalSection
+EndGlobal
